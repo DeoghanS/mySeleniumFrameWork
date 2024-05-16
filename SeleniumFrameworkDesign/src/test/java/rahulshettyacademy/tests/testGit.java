@@ -6,14 +6,11 @@ public class testGit {
 @Test
 public void helloMsg()
 {
-	System.out.println("Change 1 made by first user");
-	System.out.println("Change 1 made by first user");
-	System.out.println("Change 1 made by first user");
+	System.out.println("Master- this change is made on master");
+;
 	
 	
-	System.out.println("Change 1 made by second user");
-	System.out.println("Change 1 made by second user");
-	System.out.println("Change 1 made by second user");
+System.out.println("Master- this change is made on master");
 	
 }
 
